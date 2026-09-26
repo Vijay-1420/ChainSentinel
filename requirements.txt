@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy>=1.24.0
+networkx>=3.0
+python-louvain>=0.16
+scikit-learn>=1.2.0
+shap>=0.41.0
+streamlit>=1.25.0
+pyvis>=0.3.1
+plotly>=5.15.0
+streamlit-shap>=1.0.0

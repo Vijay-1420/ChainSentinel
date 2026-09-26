@@ -1,0 +1,251 @@
+timestamp,transaction_id,source_ip,source_port,destination_ip,destination_port,ASN,organization,country,region,city,network_type,is_vpn,is_proxy,is_tor
+2026-03-15 08:01:28,TX-2026-00001,185.173.29.7,55528,185.72.42.119,8333,AS7922 Comcast,AT&T Internet Services,IN,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 08:03:40,TX-2026-00002,185.238.140.23,40777,185.181.69.180,8333,AS16509 Amazon.com,Amazon Technologies,GB,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 08:05:38,TX-2026-00003,198.51.45.64,23180,185.104.91.54,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 08:06:24,TX-2026-00004,185.147.32.250,58851,185.238.140.23,8333,AS16509 Amazon.com,Comcast Cable,GB,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 08:10:36,TX-2026-00005,185.21.170.59,48748,185.246.97.21,8333,AS7018 AT&T,AT&T Internet Services,GB,Maharashtra,Mumbai,Residential/Broadband,1,0,0
+2026-03-15 08:11:41,TX-2026-00006,185.33.98.25,36451,185.30.219.60,8333,AS16509 Amazon.com,Google LLC,GB,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 08:12:38,TX-2026-00007,198.51.152.57,52408,185.149.108.57,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Zurich,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 08:17:32,TX-2026-00008,185.36.174.190,56907,185.53.137.187,8333,AS15169 Google LLC,Comcast Cable,IN,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 08:18:11,TX-2026-00009,198.51.174.118,39275,185.69.130.155,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,North Holland,Amsterdam,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 08:21:01,TX-2026-00010,185.21.187.118,9704,185.238.140.23,8333,AS15169 Google LLC,AT&T Internet Services,IN,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 08:21:46,TX-2026-00011,185.21.187.118,8588,185.207.75.253,8333,AS20473 Choopa/Vultr,DigitalOcean LLC,SC,London,San Francisco,Hosting/Data Center,0,1,0
+2026-03-15 08:23:43,TX-2026-00012,185.81.117.163,51560,185.205.87.27,8333,AS15169 Google LLC,Google LLC,GB,Bavaria,Mumbai,Residential/Broadband,1,0,0
+2026-03-15 08:26:07,TX-2026-00013,185.69.130.155,21226,185.238.140.23,8333,AS16509 Amazon.com,Google LLC,DE,California,London,Residential/Broadband,0,0,0
+2026-03-15 08:26:37,TX-2026-00014,198.51.46.68,54158,185.107.70.254,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Mahé,Victoria,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 08:29:37,TX-2026-00015,185.81.117.163,31190,185.33.98.25,8333,AS62041 Cloudflare,DigitalOcean LLC,JP,Maharashtra,Zurich,Hosting/Data Center,1,0,0
+2026-03-15 08:31:43,TX-2026-00016,185.238.140.23,18142,185.33.98.25,8333,AS7922 Comcast,AT&T Internet Services,DE,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 08:34:08,TX-2026-00017,185.21.170.59,1134,185.72.42.119,8333,AS15169 Google LLC,AT&T Internet Services,US,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 08:38:53,TX-2026-00018,185.147.32.250,46716,185.107.70.254,8333,AS7922 Comcast,Google LLC,DE,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 08:40:08,TX-2026-00019,185.107.70.254,52519,185.28.156.163,8333,AS7922 Comcast,AT&T Internet Services,IN,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 08:43:02,TX-2026-00020,185.149.108.57,14074,185.161.109.9,8333,AS7922 Comcast,Comcast Cable,IN,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 08:43:35,TX-2026-00021,185.59.181.18,46088,185.28.156.163,8333,AS16509 Amazon.com,AT&T Internet Services,GB,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 08:48:10,TX-2026-00022,185.16.144.51,32132,185.30.219.60,8333,AS7922 Comcast,AT&T Internet Services,GB,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 08:50:26,TX-2026-00023,198.51.22.221,36423,185.81.40.56,8333,AS20473 Choopa/Vultr,M247 International,US,London,Singapore,Hosting/Data Center,1,0,0
+2026-03-15 08:51:54,TX-2026-00024,185.59.181.18,62807,185.36.174.190,8333,AS16509 Amazon.com,AT&T Internet Services,GB,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 08:55:23,TX-2026-00025,198.51.46.68,44859,185.181.69.180,8333,AS62041 Cloudflare,M247 International,SG,London,Tokyo,Hosting/Data Center,0,0,0
+2026-03-15 08:56:38,TX-2026-00026,198.51.185.84,25868,185.21.170.59,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Zurich,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 09:00:02,TX-2026-00027,185.181.69.180,14089,185.36.174.190,8333,AS7922 Comcast,Amazon Technologies,IN,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 09:01:30,TX-2026-00028,185.30.219.60,2706,185.205.87.27,8333,AS7922 Comcast,Amazon Technologies,IN,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:04:52,TX-2026-00029,185.81.40.56,5543,185.17.24.56,8333,AS7922 Comcast,Google LLC,IN,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 09:07:56,TX-2026-00030,185.30.219.60,48932,185.193.167.180,8333,AS7018 AT&T,Amazon Technologies,DE,London,London,Residential/Broadband,0,0,0
+2026-03-15 09:10:51,TX-2026-00031,185.124.151.72,33418,185.33.98.25,8333,AS9009 M247 Europe,Cloudflare Inc.,CH,Nicosia,Limassol,Hosting/Data Center,0,0,0
+2026-03-15 09:13:13,TX-2026-00032,185.104.91.54,43353,185.217.223.2,8333,AS15169 Google LLC,Amazon Technologies,GB,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 09:17:12,TX-2026-00033,185.207.75.253,49909,185.230.93.148,8333,AS62041 Cloudflare,Vultr Hosting,CY,North Holland,Zurich,Hosting/Data Center,0,0,0
+2026-03-15 09:19:40,TX-2026-00034,185.181.69.180,55591,185.124.151.72,8333,AS16509 Amazon.com,Amazon Technologies,GB,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:21:46,TX-2026-00035,185.67.36.189,31786,185.36.174.190,8333,AS7922 Comcast,Amazon Technologies,GB,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 09:24:50,TX-2026-00036,185.238.140.23,63225,185.230.93.148,8333,AS7018 AT&T,Google LLC,IN,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 09:27:07,TX-2026-00037,185.188.109.88,41723,185.104.91.54,8333,AS7018 AT&T,AT&T Internet Services,GB,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 09:27:58,TX-2026-00038,185.207.75.253,47094,185.72.42.119,8333,AS7018 AT&T,Comcast Cable,IN,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:28:44,TX-2026-00039,185.217.223.2,11897,185.21.170.59,8333,AS15169 Google LLC,Amazon Technologies,US,Bavaria,San Francisco,Residential/Broadband,1,0,0
+2026-03-15 09:31:21,TX-2026-00040,185.33.98.25,40588,185.223.94.42,8333,AS7018 AT&T,AT&T Internet Services,IN,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 09:32:17,TX-2026-00041,185.33.98.25,39384,185.28.156.163,8333,AS15169 Google LLC,Amazon Technologies,GB,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:36:38,TX-2026-00042,185.220.103.98,27268,185.147.32.250,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Limassol,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 09:38:57,TX-2026-00043,185.181.69.180,50830,185.30.219.60,8333,AS7018 AT&T,Google LLC,US,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 09:43:15,TX-2026-00044,185.164.68.207,8722,185.249.175.166,8333,AS15169 Google LLC,AT&T Internet Services,IN,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 09:44:43,TX-2026-00045,185.231.26.98,34332,185.231.26.98,8333,AS16509 Amazon.com,AT&T Internet Services,US,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 09:46:02,TX-2026-00046,198.51.46.68,57729,185.147.32.250,8333,AS20473 Choopa/Vultr,DigitalOcean LLC,GB,London,Limassol,Hosting/Data Center,0,0,0
+2026-03-15 09:49:02,TX-2026-00047,185.217.223.2,47241,185.81.40.56,8333,AS7018 AT&T,Amazon Technologies,GB,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:52:27,TX-2026-00048,185.67.36.189,10471,185.16.144.51,8333,AS7922 Comcast,Google LLC,GB,Maharashtra,London,Residential/Broadband,1,0,0
+2026-03-15 09:53:56,TX-2026-00049,185.161.109.9,45876,185.147.32.250,8333,AS7018 AT&T,Comcast Cable,GB,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 09:56:02,TX-2026-00050,185.17.24.56,20250,185.207.75.253,8333,AS16509 Amazon.com,Comcast Cable,IN,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 09:59:52,TX-2026-00051,185.149.108.57,42829,185.124.151.72,8333,AS15169 Google LLC,AT&T Internet Services,US,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 10:02:12,TX-2026-00052,185.207.75.253,26235,185.246.97.21,8333,AS7922 Comcast,AT&T Internet Services,DE,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:03:16,TX-2026-00053,185.101.217.89,60198,185.199.71.63,8333,AS7018 AT&T,Comcast Cable,IN,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 10:05:23,TX-2026-00054,185.16.144.51,6930,185.17.24.56,8333,AS15169 Google LLC,Comcast Cable,GB,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:08:20,TX-2026-00055,185.151.76.213,23222,185.104.91.54,8333,AS7922 Comcast,Amazon Technologies,DE,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:12:29,TX-2026-00056,198.51.159.110,9123,185.151.76.213,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Zurich,Amsterdam,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 10:14:53,TX-2026-00057,185.199.71.63,8670,185.107.70.254,8333,AS7922 Comcast,Amazon Technologies,IN,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:15:22,TX-2026-00058,185.16.144.51,55660,185.170.159.227,8333,AS7018 AT&T,Comcast Cable,GB,California,London,Residential/Broadband,0,0,0
+2026-03-15 10:19:00,TX-2026-00059,185.220.104.120,19104,185.151.76.213,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Nicosia,Limassol,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 10:19:56,TX-2026-00060,185.147.32.250,16293,185.81.40.56,8333,AS16509 Amazon.com,Amazon Technologies,IN,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 10:21:21,TX-2026-00061,185.249.175.166,52694,185.193.167.180,8333,AS62041 Cloudflare,Vultr Hosting,DE,California,Mumbai,Hosting/Data Center,1,0,0
+2026-03-15 10:21:57,TX-2026-00062,185.207.75.253,64202,185.151.76.213,8333,AS15169 Google LLC,AT&T Internet Services,US,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:26:18,TX-2026-00063,185.193.167.180,40701,185.238.140.23,8333,AS16509 Amazon.com,Comcast Cable,DE,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:27:26,TX-2026-00064,185.21.170.59,21507,185.21.170.59,8333,AS9009 M247 Europe,Cloudflare Inc.,JP,North Holland,Zurich,Hosting/Data Center,1,0,0
+2026-03-15 10:28:54,TX-2026-00065,185.21.170.59,58276,185.17.24.56,8333,AS7922 Comcast,Amazon Technologies,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 10:32:40,TX-2026-00066,185.28.156.163,15720,185.72.42.119,8333,AS20473 Choopa/Vultr,Vultr Hosting,US,Nicosia,Victoria,Hosting/Data Center,1,0,0
+2026-03-15 10:33:48,TX-2026-00067,198.51.45.64,23294,185.249.175.166,8333,AS14061 DigitalOcean,Vultr Hosting,IN,Bavaria,London,Hosting/Data Center,0,0,0
+2026-03-15 10:38:47,TX-2026-00068,185.161.109.9,21447,185.104.91.54,8333,AS16509 Amazon.com,AT&T Internet Services,GB,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:43:47,TX-2026-00069,185.161.109.9,50499,185.33.98.25,8333,AS7018 AT&T,AT&T Internet Services,GB,London,London,Residential/Broadband,0,0,0
+2026-03-15 10:46:53,TX-2026-00070,185.164.68.207,14867,185.67.36.189,8333,AS16509 Amazon.com,AT&T Internet Services,IN,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 10:49:13,TX-2026-00071,185.16.144.51,31154,185.170.159.227,8333,AS16509 Amazon.com,Comcast Cable,IN,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 10:52:03,TX-2026-00072,185.69.130.155,56368,185.230.93.148,8333,AS15169 Google LLC,Comcast Cable,US,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 10:55:56,TX-2026-00073,185.147.32.250,23920,185.188.109.88,8333,AS7922 Comcast,Amazon Technologies,IN,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 10:57:21,TX-2026-00074,185.238.140.23,5499,185.124.151.72,8333,AS7018 AT&T,AT&T Internet Services,GB,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 11:00:06,TX-2026-00075,198.51.90.103,6052,185.223.94.42,8333,AS14061 DigitalOcean,Vultr Hosting,CH,Zurich,Mumbai,Hosting/Data Center,1,0,0
+2026-03-15 11:00:37,TX-2026-00076,185.223.94.42,12332,185.193.167.180,8333,AS15169 Google LLC,AT&T Internet Services,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 11:02:08,TX-2026-00077,185.72.42.119,48454,185.36.174.190,8333,AS7922 Comcast,Google LLC,DE,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 11:03:34,TX-2026-00078,185.230.93.148,55350,185.16.144.51,8333,AS15169 Google LLC,Comcast Cable,GB,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 11:08:13,TX-2026-00079,185.164.68.207,11178,185.124.151.72,8333,AS16509 Amazon.com,Comcast Cable,GB,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 11:09:30,TX-2026-00080,185.107.70.254,41039,185.149.108.57,8333,AS7018 AT&T,Google LLC,GB,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 11:13:29,TX-2026-00081,185.217.223.2,54559,185.151.76.213,8333,AS7018 AT&T,AT&T Internet Services,DE,London,London,Residential/Broadband,0,0,0
+2026-03-15 11:14:49,TX-2026-00082,198.51.136.24,10680,185.151.76.213,8333,AS14061 DigitalOcean,DigitalOcean LLC,GB,California,Munich,Hosting/Data Center,1,0,0
+2026-03-15 11:17:57,TX-2026-00083,185.220.104.17,56020,185.151.76.213,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,North Holland,Limassol,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 11:22:08,TX-2026-00084,185.173.29.7,19905,185.161.109.9,8333,AS15169 Google LLC,Comcast Cable,US,California,London,Residential/Broadband,0,0,0
+2026-03-15 11:23:20,TX-2026-00085,185.69.130.155,24146,185.81.117.163,8333,AS15169 Google LLC,Amazon Technologies,US,Bavaria,London,Residential/Broadband,1,0,0
+2026-03-15 11:27:03,TX-2026-00086,185.104.91.54,17647,185.181.69.180,8333,AS15169 Google LLC,AT&T Internet Services,GB,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 11:30:15,TX-2026-00087,185.204.207.41,55444,185.53.137.187,8333,AS20473 Choopa/Vultr,Cloudflare Inc.,IN,North Holland,Victoria,Hosting/Data Center,1,0,0
+2026-03-15 11:31:34,TX-2026-00088,185.217.223.2,43419,185.67.36.189,8333,AS7922 Comcast,Comcast Cable,GB,London,Munich,Residential/Broadband,1,0,0
+2026-03-15 11:34:46,TX-2026-00089,198.51.185.84,64837,185.33.98.25,8333,AS14061 DigitalOcean,Vultr Hosting,JP,Tokyo,Zurich,Hosting/Data Center,0,0,0
+2026-03-15 11:39:21,TX-2026-00090,185.124.151.72,21110,185.181.69.180,8333,AS7922 Comcast,Comcast Cable,IN,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 11:43:09,TX-2026-00091,185.246.97.21,53524,185.107.70.254,8333,AS7018 AT&T,Comcast Cable,IN,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 11:44:40,TX-2026-00092,185.220.104.120,45527,185.151.76.213,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Zurich,Amsterdam,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 11:45:29,TX-2026-00093,185.81.40.56,18082,185.69.130.155,8333,AS15169 Google LLC,Amazon Technologies,GB,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 11:47:28,TX-2026-00094,185.220.103.41,54141,185.238.140.23,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Mahé,Zurich,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 11:52:15,TX-2026-00095,185.124.151.72,2746,185.151.76.213,8333,AS16509 Amazon.com,Google LLC,US,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 11:55:33,TX-2026-00096,185.164.68.207,43120,185.230.93.148,8333,AS7018 AT&T,AT&T Internet Services,GB,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:00:25,TX-2026-00097,185.36.174.190,15800,185.69.130.155,8333,AS16509 Amazon.com,Comcast Cable,US,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 12:05:00,TX-2026-00098,185.220.102.197,41949,185.164.68.207,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Mahé,Victoria,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 12:05:31,TX-2026-00099,185.161.109.9,42125,185.28.156.163,8333,AS20473 Choopa/Vultr,Cloudflare Inc.,CY,Tokyo,Limassol,Hosting/Data Center,0,0,0
+2026-03-15 12:09:48,TX-2026-00100,185.36.174.190,10439,185.149.108.57,8333,AS7018 AT&T,AT&T Internet Services,GB,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:12:41,TX-2026-00101,185.249.175.166,10256,185.17.24.56,8333,AS7922 Comcast,Amazon Technologies,GB,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 12:14:58,TX-2026-00102,185.220.103.98,6925,185.81.117.163,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Limassol,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 12:18:08,TX-2026-00103,185.231.26.98,51084,185.101.217.89,8333,AS15169 Google LLC,Google LLC,GB,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 12:18:41,TX-2026-00104,185.238.140.23,53118,185.170.159.227,8333,AS7018 AT&T,Comcast Cable,IN,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 12:23:36,TX-2026-00105,185.220.105.109,59556,185.16.144.51,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Zurich,Zurich,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 12:26:29,TX-2026-00106,185.223.94.42,8207,185.223.94.42,8333,AS7018 AT&T,Comcast Cable,GB,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 12:29:16,TX-2026-00107,185.36.174.190,12198,185.72.42.119,8333,AS9009 M247 Europe,Vultr Hosting,CY,Nicosia,Singapore,Hosting/Data Center,0,0,0
+2026-03-15 12:31:30,TX-2026-00108,185.59.181.18,35016,185.193.167.180,8333,AS7018 AT&T,Amazon Technologies,GB,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 12:34:26,TX-2026-00109,185.220.105.227,17179,185.147.32.250,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Nicosia,Zurich,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 12:37:08,TX-2026-00110,198.51.22.221,25907,185.21.187.118,8333,AS9009 M247 Europe,Vultr Hosting,SC,London,London,Hosting/Data Center,1,0,0
+2026-03-15 12:39:46,TX-2026-00111,185.205.87.27,49579,185.231.26.98,8333,AS16509 Amazon.com,Amazon Technologies,DE,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:42:00,TX-2026-00112,185.59.181.18,62302,185.147.32.250,8333,AS7018 AT&T,Google LLC,US,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:46:13,TX-2026-00113,185.36.174.190,3405,185.161.109.9,8333,AS16509 Amazon.com,Google LLC,US,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:49:46,TX-2026-00114,185.53.137.187,30800,185.67.36.189,8333,AS14061 DigitalOcean,Vultr Hosting,CY,Nicosia,San Francisco,Hosting/Data Center,0,0,0
+2026-03-15 12:54:14,TX-2026-00115,185.205.87.27,42883,185.124.151.72,8333,AS15169 Google LLC,Comcast Cable,DE,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 12:58:02,TX-2026-00116,185.16.144.51,50422,185.231.26.98,8333,AS7922 Comcast,Amazon Technologies,IN,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 13:01:00,TX-2026-00117,185.81.40.56,61520,185.36.174.190,8333,AS15169 Google LLC,AT&T Internet Services,DE,California,London,Residential/Broadband,0,0,0
+2026-03-15 13:03:49,TX-2026-00118,185.16.144.51,53583,185.231.26.98,8333,AS16509 Amazon.com,AT&T Internet Services,DE,London,London,Residential/Broadband,0,0,0
+2026-03-15 13:05:50,TX-2026-00119,185.149.108.57,34151,185.104.91.54,8333,AS9009 M247 Europe,Vultr Hosting,US,Nicosia,San Francisco,Hosting/Data Center,1,0,0
+2026-03-15 13:10:26,TX-2026-00120,185.223.94.42,37645,185.207.75.253,8333,AS15169 Google LLC,AT&T Internet Services,US,London,London,Residential/Broadband,0,0,0
+2026-03-15 13:13:13,TX-2026-00121,185.53.137.187,5547,185.238.140.23,8333,AS15169 Google LLC,AT&T Internet Services,DE,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 13:17:24,TX-2026-00122,185.59.181.18,44395,185.151.76.213,8333,AS7018 AT&T,AT&T Internet Services,GB,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 13:18:42,TX-2026-00123,185.104.91.54,36704,185.16.144.51,8333,AS16509 Amazon.com,Google LLC,IN,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 13:22:06,TX-2026-00124,198.51.18.207,59288,185.193.167.180,8333,AS20473 Choopa/Vultr,Cloudflare Inc.,US,Maharashtra,Tokyo,Hosting/Data Center,0,0,0
+2026-03-15 13:22:33,TX-2026-00125,185.67.36.189,19981,185.230.93.148,8333,AS7018 AT&T,Amazon Technologies,US,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 13:25:26,TX-2026-00126,185.104.91.54,29021,185.188.109.88,8333,AS7018 AT&T,Comcast Cable,DE,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 13:26:00,TX-2026-00127,185.220.100.175,47395,185.124.151.72,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Mahé,Victoria,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 13:29:43,TX-2026-00128,185.161.109.9,40671,185.207.75.253,8333,AS7922 Comcast,Google LLC,US,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 13:30:30,TX-2026-00129,185.231.26.98,8712,185.204.207.41,8333,AS7922 Comcast,Comcast Cable,IN,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 13:34:45,TX-2026-00130,198.51.174.118,58879,185.30.219.60,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Nicosia,Limassol,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 13:38:55,TX-2026-00131,185.59.181.18,37285,185.151.76.213,8333,AS20473 Choopa/Vultr,M247 International,IN,Nicosia,Singapore,Hosting/Data Center,0,1,0
+2026-03-15 13:41:53,TX-2026-00132,185.147.32.250,48230,185.205.87.27,8333,AS7018 AT&T,AT&T Internet Services,GB,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 13:43:37,TX-2026-00133,198.51.185.84,16191,185.36.174.190,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Zurich,Victoria,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 13:47:40,TX-2026-00134,185.231.26.98,19029,185.81.117.163,8333,AS15169 Google LLC,Google LLC,GB,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 13:50:16,TX-2026-00135,185.124.151.72,18543,185.17.24.56,8333,AS15169 Google LLC,Amazon Technologies,US,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 13:51:06,TX-2026-00136,185.188.109.88,32219,185.164.68.207,8333,AS15169 Google LLC,Google LLC,IN,London,London,Residential/Broadband,0,0,0
+2026-03-15 13:54:58,TX-2026-00137,185.104.91.54,45878,185.67.36.189,8333,AS16509 Amazon.com,Amazon Technologies,GB,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 13:59:46,TX-2026-00138,185.204.207.41,38162,185.53.137.187,8333,AS16509 Amazon.com,AT&T Internet Services,IN,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 14:03:15,TX-2026-00139,185.161.109.9,23345,185.223.94.42,8333,AS7922 Comcast,Google LLC,IN,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 14:06:48,TX-2026-00140,185.220.104.120,44321,185.246.97.21,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Victoria,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 14:09:04,TX-2026-00141,185.193.167.180,30170,185.170.159.227,8333,AS7922 Comcast,Comcast Cable,IN,Maharashtra,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 14:11:32,TX-2026-00142,185.223.94.42,52432,185.59.181.18,8333,AS15169 Google LLC,Google LLC,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 14:14:59,TX-2026-00143,185.249.175.166,33341,185.81.40.56,8333,AS16509 Amazon.com,AT&T Internet Services,US,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 14:16:34,TX-2026-00144,185.205.87.27,63206,185.81.40.56,8333,AS7018 AT&T,Amazon Technologies,GB,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 14:19:58,TX-2026-00145,198.51.185.84,27123,185.21.170.59,8333,AS62041 Cloudflare,Vultr Hosting,NL,Nicosia,Singapore,Hosting/Data Center,0,1,0
+2026-03-15 14:24:19,TX-2026-00146,185.220.104.17,31276,185.28.156.163,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Mahé,Amsterdam,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 14:25:04,TX-2026-00147,198.51.174.118,5871,185.81.117.163,8333,AS62041 Cloudflare,Vultr Hosting,SG,London,Munich,Hosting/Data Center,0,0,0
+2026-03-15 14:29:33,TX-2026-00148,198.51.159.110,24289,185.72.42.119,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,North Holland,Victoria,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 14:33:07,TX-2026-00149,185.220.105.88,51640,185.104.91.54,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Zurich,Limassol,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 14:37:24,TX-2026-00150,185.193.167.180,7421,185.246.97.21,8333,AS7922 Comcast,Comcast Cable,GB,California,London,Residential/Broadband,0,0,0
+2026-03-15 14:41:25,TX-2026-00151,185.147.32.250,63837,185.17.24.56,8333,AS16509 Amazon.com,Amazon Technologies,US,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 14:45:02,TX-2026-00152,185.107.70.254,50328,185.217.223.2,8333,AS7018 AT&T,AT&T Internet Services,GB,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 14:45:44,TX-2026-00153,185.69.130.155,56435,185.205.87.27,8333,AS7018 AT&T,Comcast Cable,GB,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 14:47:22,TX-2026-00154,185.72.42.119,46469,185.107.70.254,8333,AS14061 DigitalOcean,Cloudflare Inc.,NL,California,Singapore,Hosting/Data Center,1,1,0
+2026-03-15 14:50:48,TX-2026-00155,185.124.151.72,30580,185.249.175.166,8333,AS16509 Amazon.com,AT&T Internet Services,DE,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 14:54:01,TX-2026-00156,198.51.45.131,30112,185.81.117.163,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Zurich,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 14:56:03,TX-2026-00157,185.30.219.60,50620,185.28.156.163,8333,AS7018 AT&T,Google LLC,IN,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 14:58:19,TX-2026-00158,185.161.109.9,10148,185.207.75.253,8333,AS15169 Google LLC,Amazon Technologies,US,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 15:00:14,TX-2026-00159,185.249.175.166,60016,185.72.42.119,8333,AS62041 Cloudflare,Vultr Hosting,GB,London,Limassol,Hosting/Data Center,1,0,0
+2026-03-15 15:00:54,TX-2026-00160,198.51.64.234,25611,185.230.93.148,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Mahé,Limassol,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 15:01:51,TX-2026-00161,185.30.219.60,53169,185.81.117.163,8333,AS7922 Comcast,Google LLC,IN,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 15:03:52,TX-2026-00162,185.220.104.193,42061,185.16.144.51,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Nicosia,Amsterdam,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 15:05:22,TX-2026-00163,185.16.144.51,44573,185.164.68.207,8333,AS16509 Amazon.com,Comcast Cable,IN,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 15:06:56,TX-2026-00164,185.21.170.59,15847,185.161.109.9,8333,AS15169 Google LLC,Google LLC,US,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:10:53,TX-2026-00165,185.21.170.59,7736,185.16.144.51,8333,AS7018 AT&T,Google LLC,US,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:14:11,TX-2026-00166,185.220.102.197,48369,185.193.167.180,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,North Holland,Victoria,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 15:18:07,TX-2026-00167,185.217.223.2,43269,185.16.144.51,8333,AS14061 DigitalOcean,M247 International,NL,Tokyo,Amsterdam,Hosting/Data Center,0,0,0
+2026-03-15 15:20:42,TX-2026-00168,185.72.42.119,33764,185.204.207.41,8333,AS62041 Cloudflare,M247 International,GB,Maharashtra,Singapore,Hosting/Data Center,0,1,0
+2026-03-15 15:20:58,TX-2026-00169,185.220.105.227,1927,185.124.151.72,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Amsterdam,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 15:24:31,TX-2026-00170,185.230.93.148,14340,185.161.109.9,8333,AS16509 Amazon.com,Comcast Cable,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:26:00,TX-2026-00171,185.238.140.23,8625,185.164.68.207,8333,AS7018 AT&T,Amazon Technologies,IN,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:26:38,TX-2026-00172,185.16.144.51,50161,185.173.29.7,8333,AS16509 Amazon.com,AT&T Internet Services,DE,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 15:29:05,TX-2026-00173,185.104.91.54,57343,185.238.140.23,8333,AS7922 Comcast,Google LLC,GB,London,Munich,Residential/Broadband,1,0,0
+2026-03-15 15:32:23,TX-2026-00174,185.223.94.42,61331,185.173.29.7,8333,AS15169 Google LLC,Google LLC,US,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 15:32:51,TX-2026-00175,185.81.40.56,60133,185.59.181.18,8333,AS7922 Comcast,Comcast Cable,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:36:59,TX-2026-00176,185.107.70.254,49492,185.21.187.118,8333,AS14061 DigitalOcean,M247 International,IN,North Holland,Singapore,Hosting/Data Center,1,0,0
+2026-03-15 15:41:21,TX-2026-00177,185.220.105.109,46470,185.59.181.18,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Mahé,Limassol,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 15:44:43,TX-2026-00178,185.204.207.41,61400,185.204.207.41,8333,AS62041 Cloudflare,M247 International,CH,Maharashtra,Munich,Hosting/Data Center,0,1,0
+2026-03-15 15:48:47,TX-2026-00179,198.51.185.84,18128,185.53.137.187,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Zurich,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 15:51:44,TX-2026-00180,185.53.137.187,8936,185.17.24.56,8333,AS16509 Amazon.com,Google LLC,US,London,London,Residential/Broadband,0,0,0
+2026-03-15 15:53:40,TX-2026-00181,185.164.68.207,64489,185.72.42.119,8333,AS15169 Google LLC,Amazon Technologies,DE,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 15:58:12,TX-2026-00182,185.230.93.148,5065,185.207.75.253,8333,AS16509 Amazon.com,Google LLC,GB,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 16:00:15,TX-2026-00183,185.161.109.9,30084,185.53.137.187,8333,AS7922 Comcast,Google LLC,IN,Maharashtra,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 16:01:12,TX-2026-00184,185.220.104.193,28985,185.21.170.59,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Amsterdam,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 16:03:42,TX-2026-00185,185.101.217.89,28498,185.81.117.163,8333,AS7018 AT&T,AT&T Internet Services,IN,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:08:21,TX-2026-00186,185.246.97.21,21921,185.231.26.98,8333,AS7018 AT&T,Comcast Cable,DE,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:08:46,TX-2026-00187,185.220.104.193,18491,185.188.109.88,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,North Holland,Victoria,Anonymized Relay / VPN Node,1,0,1
+2026-03-15 16:10:48,TX-2026-00188,185.124.151.72,37960,185.124.151.72,8333,AS16509 Amazon.com,Comcast Cable,DE,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:12:34,TX-2026-00189,198.51.38.40,2330,185.181.69.180,8333,AS20473 Choopa/Vultr,Cloudflare Inc.,CH,Maharashtra,San Francisco,Hosting/Data Center,1,0,0
+2026-03-15 16:14:27,TX-2026-00190,185.246.97.21,57428,185.21.187.118,8333,AS14061 DigitalOcean,DigitalOcean LLC,DE,Nicosia,Munich,Hosting/Data Center,0,0,0
+2026-03-15 16:17:59,TX-2026-00191,185.21.170.59,49127,185.81.117.163,8333,AS7922 Comcast,Amazon Technologies,DE,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 16:19:14,TX-2026-00192,185.28.156.163,49870,185.67.36.189,8333,AS16509 Amazon.com,Comcast Cable,US,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 16:20:09,TX-2026-00193,198.51.185.84,48237,185.207.75.253,8333,AS14061 DigitalOcean,Vultr Hosting,SG,Central,San Francisco,Hosting/Data Center,1,0,0
+2026-03-15 16:23:53,TX-2026-00194,185.220.103.41,56451,185.231.26.98,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Mahé,Zurich,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 16:24:56,TX-2026-00195,185.161.109.9,7660,185.147.32.250,8333,AS7018 AT&T,Google LLC,GB,California,London,Residential/Broadband,0,0,0
+2026-03-15 16:26:43,TX-2026-00196,185.101.217.89,24671,185.164.68.207,8333,AS16509 Amazon.com,Google LLC,IN,London,London,Residential/Broadband,0,0,0
+2026-03-15 16:30:58,TX-2026-00197,185.161.109.9,18391,185.231.26.98,8333,AS15169 Google LLC,Comcast Cable,GB,London,London,Residential/Broadband,0,0,0
+2026-03-15 16:34:23,TX-2026-00198,185.188.109.88,28155,185.33.98.25,8333,AS15169 Google LLC,Amazon Technologies,IN,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:36:29,TX-2026-00199,185.231.26.98,47836,185.28.156.163,8333,AS16509 Amazon.com,AT&T Internet Services,DE,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 16:40:28,TX-2026-00200,185.21.170.59,60935,185.161.109.9,8333,AS7018 AT&T,Amazon Technologies,US,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:41:22,TX-2026-00201,185.30.219.60,39210,185.173.29.7,8333,AS7018 AT&T,Google LLC,GB,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 16:42:23,TX-2026-00202,198.51.46.68,19073,185.205.87.27,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Zurich,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 16:45:58,TX-2026-00203,185.33.98.25,57269,185.151.76.213,8333,AS15169 Google LLC,Comcast Cable,DE,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 16:46:58,TX-2026-00204,198.51.64.168,60886,185.33.98.25,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 16:50:19,TX-2026-00205,185.21.187.118,55610,185.238.140.23,8333,AS20473 Choopa/Vultr,M247 International,DE,Mahé,Limassol,Hosting/Data Center,1,1,0
+2026-03-15 16:50:54,TX-2026-00206,185.220.103.1,30259,185.69.130.155,8333,AS9009 M247 Europe,M247 International Anonymizer,NL,Mahé,Limassol,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 16:54:00,TX-2026-00207,185.199.71.63,18658,185.170.159.227,8333,AS15169 Google LLC,Amazon Technologies,US,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 16:58:32,TX-2026-00208,185.124.151.72,25696,185.72.42.119,8333,AS15169 Google LLC,Amazon Technologies,DE,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:02:37,TX-2026-00209,185.230.93.148,32595,185.53.137.187,8333,AS15169 Google LLC,Google LLC,DE,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:05:19,TX-2026-00210,185.72.42.119,28455,185.230.93.148,8333,AS7922 Comcast,Amazon Technologies,IN,London,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:05:47,TX-2026-00211,185.181.69.180,9408,185.231.26.98,8333,AS7922 Comcast,Comcast Cable,US,California,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:10:43,TX-2026-00212,198.51.185.84,18100,185.161.109.9,8333,AS62041 Cloudflare,Vultr Hosting,SG,London,Tokyo,Hosting/Data Center,0,0,0
+2026-03-15 17:14:53,TX-2026-00213,185.231.26.98,10905,185.217.223.2,8333,AS15169 Google LLC,AT&T Internet Services,DE,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 17:16:45,TX-2026-00214,185.124.151.72,18949,185.161.109.9,8333,AS7018 AT&T,Comcast Cable,US,Bavaria,Mumbai,Residential/Broadband,1,0,0
+2026-03-15 17:18:21,TX-2026-00215,185.16.144.51,3496,185.107.70.254,8333,AS7018 AT&T,AT&T Internet Services,GB,London,London,Residential/Broadband,0,0,0
+2026-03-15 17:21:42,TX-2026-00216,198.51.64.234,34010,185.188.109.88,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Nicosia,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 17:22:15,TX-2026-00217,185.147.32.250,60458,185.21.170.59,8333,AS16509 Amazon.com,Comcast Cable,GB,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 17:25:51,TX-2026-00218,185.199.71.63,17787,185.53.137.187,8333,AS16509 Amazon.com,Google LLC,DE,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 17:26:25,TX-2026-00219,185.36.174.190,11059,185.69.130.155,8333,AS7018 AT&T,AT&T Internet Services,GB,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:26:39,TX-2026-00220,185.72.42.119,33643,185.16.144.51,8333,AS7018 AT&T,Google LLC,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 17:28:31,TX-2026-00221,185.230.93.148,62177,185.246.97.21,8333,AS9009 M247 Europe,Vultr Hosting,DE,Maharashtra,Victoria,Hosting/Data Center,0,0,0
+2026-03-15 17:29:26,TX-2026-00222,198.51.185.84,20424,185.17.24.56,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Mahé,Zurich,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 17:31:05,TX-2026-00223,198.51.78.17,12198,185.21.187.118,8333,AS9009 M247 Europe,DigitalOcean LLC,US,Maharashtra,Mumbai,Hosting/Data Center,0,0,0
+2026-03-15 17:33:32,TX-2026-00224,198.51.24.59,32366,185.124.151.72,8333,AS14061 DigitalOcean,M247 International,JP,Zurich,London,Hosting/Data Center,0,0,0
+2026-03-15 17:34:12,TX-2026-00225,198.51.136.24,57553,185.207.75.253,8333,AS9009 M247 Europe,M247 International Anonymizer,SC,Zurich,Limassol,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 17:37:52,TX-2026-00226,185.104.91.54,44520,185.28.156.163,8333,AS16509 Amazon.com,Comcast Cable,IN,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 17:41:19,TX-2026-00227,185.149.108.57,22709,185.223.94.42,8333,AS7018 AT&T,AT&T Internet Services,US,Maharashtra,London,Residential/Broadband,0,0,0
+2026-03-15 17:41:54,TX-2026-00228,185.161.109.9,65293,185.30.219.60,8333,AS7018 AT&T,AT&T Internet Services,IN,London,London,Residential/Broadband,0,0,0
+2026-03-15 17:42:13,TX-2026-00229,185.161.109.9,54539,185.72.42.119,8333,AS7922 Comcast,Amazon Technologies,GB,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:46:15,TX-2026-00230,185.207.75.253,64229,185.69.130.155,8333,AS15169 Google LLC,Amazon Technologies,IN,Bavaria,Munich,Residential/Broadband,0,0,0
+2026-03-15 17:51:05,TX-2026-00231,185.16.144.51,26772,185.59.181.18,8333,AS15169 Google LLC,Comcast Cable,US,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 17:52:52,TX-2026-00232,185.53.137.187,4207,185.69.130.155,8333,AS7018 AT&T,AT&T Internet Services,US,London,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 17:56:43,TX-2026-00233,185.246.97.21,58786,185.53.137.187,8333,AS62041 Cloudflare,Cloudflare Inc.,US,Tokyo,Limassol,Hosting/Data Center,0,0,0
+2026-03-15 17:59:00,TX-2026-00234,185.59.181.18,20067,185.72.42.119,8333,AS7922 Comcast,Comcast Cable,US,California,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 18:00:17,TX-2026-00235,198.51.170.41,28705,185.246.97.21,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,Zurich,Limassol,Anonymized Relay / VPN Node,1,0,0
+2026-03-15 18:00:54,TX-2026-00236,185.101.217.89,30685,185.205.87.27,8333,AS16509 Amazon.com,Google LLC,DE,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 18:05:51,TX-2026-00237,198.51.193.81,21514,185.81.40.56,8333,AS20473 Choopa/Vultr,DigitalOcean LLC,JP,Tokyo,Tokyo,Hosting/Data Center,0,0,0
+2026-03-15 18:07:44,TX-2026-00238,185.151.76.213,5904,185.53.137.187,8333,AS16509 Amazon.com,Amazon Technologies,DE,London,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 18:09:22,TX-2026-00239,185.205.87.27,11169,185.16.144.51,8333,AS16509 Amazon.com,Comcast Cable,IN,Bavaria,London,Residential/Broadband,0,0,0
+2026-03-15 18:12:06,TX-2026-00240,185.21.187.118,27462,185.104.91.54,8333,AS16509 Amazon.com,Amazon Technologies,IN,California,London,Residential/Broadband,0,0,0
+2026-03-15 18:15:20,TX-2026-00241,185.173.29.7,22056,185.69.130.155,8333,AS7922 Comcast,AT&T Internet Services,US,California,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 18:16:28,TX-2026-00242,185.151.76.213,6420,185.223.94.42,8333,AS7018 AT&T,AT&T Internet Services,IN,Bavaria,San Francisco,Residential/Broadband,0,0,0
+2026-03-15 18:18:03,TX-2026-00243,198.51.170.41,47078,185.204.207.41,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Victoria,Anonymized Relay / VPN Node,1,1,0
+2026-03-15 18:18:25,TX-2026-00244,185.205.87.27,27529,185.249.175.166,8333,AS15169 Google LLC,Amazon Technologies,DE,London,London,Residential/Broadband,0,0,0
+2026-03-15 18:18:43,TX-2026-00245,185.238.140.23,20773,185.53.137.187,8333,AS15169 Google LLC,Google LLC,DE,Maharashtra,Munich,Residential/Broadband,0,0,0
+2026-03-15 18:21:17,TX-2026-00246,198.51.64.168,56694,185.199.71.63,8333,AS9009 M247 Europe,Cloudflare Inc.,SC,Central,Munich,Hosting/Data Center,0,0,0
+2026-03-15 18:24:38,TX-2026-00247,185.220.104.193,49614,185.72.42.119,8333,AS9009 M247 Europe,M247 International Anonymizer,CH,North Holland,Limassol,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 18:29:10,TX-2026-00248,185.69.130.155,13961,185.124.151.72,8333,AS15169 Google LLC,AT&T Internet Services,IN,Bavaria,Mumbai,Residential/Broadband,0,0,0
+2026-03-15 18:33:29,TX-2026-00249,185.220.104.17,44239,185.217.223.2,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Zurich,Zurich,Anonymized Relay / VPN Node,1,1,1
+2026-03-15 18:36:20,TX-2026-00250,198.51.45.131,22753,185.21.170.59,8333,AS9009 M247 Europe,M247 International Anonymizer,CY,Nicosia,Victoria,Anonymized Relay / VPN Node,1,0,0
